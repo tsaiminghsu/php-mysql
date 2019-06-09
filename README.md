@@ -1,4 +1,4 @@
-# php+mysql
+# php_mysql_ai2
 ## ai2
 ![image](https://github.com/tsaiminghsu/php-mysql/blob/master/image/php_mysql.png)
 ![image](https://github.com/tsaiminghsu/php-mysql/blob/master/image/php_product.png)
