@@ -1,5 +1,7 @@
 # php_mysql_ai2
 ### 此APP為模型店資料庫範例
+### 程式碼請放在此目錄底下才能運作，目錄為 C:\AppServ\www
+### 程式碼執行請用 127.0.0.1/xxx.php
 ## php_mysql
 ![image](https://github.com/tsaiminghsu/php-mysql/blob/master/image/php_mysql.png)
 ## app
