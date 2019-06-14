@@ -6,4 +6,4 @@
 ![image](https://github.com/tsaiminghsu/php-mysql/blob/master/image/php_insertUpdate.png)
 ![image](https://github.com/tsaiminghsu/php-mysql/blob/master/image/php_update.png)
 
-
+### 備註：僅開放app下載使用測試，恕不開放aia檔案
