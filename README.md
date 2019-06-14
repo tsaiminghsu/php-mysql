@@ -1,4 +1,5 @@
 # php_mysql_ai2
+### 此APP為模型店資料庫範例
 ## php_mysql
 ![image](https://github.com/tsaiminghsu/php-mysql/blob/master/image/php_mysql.png)
 ## app
