@@ -16,5 +16,10 @@
 ![image](https://github.com/tsaiminghsu/php-mysql/blob/master/image/php_insertUpdate.png)
 ### ai2 update sql語法(把第一個欄位的值清除以防Apache產生的亂碼無法上傳到資料庫)
 ![image](https://github.com/tsaiminghsu/php-mysql/blob/master/image/php_update.png)
-
+### 新增
+![image](https://github.com/tsaiminghsu/php_mysql_ai2/blob/master/image/vendor_insertSuccess.png)
+### 修改
+![image](https://github.com/tsaiminghsu/php_mysql_ai2/blob/master/image/vendor_updateSuccess.png)
+### 刪除
+![image](https://github.com/tsaiminghsu/php_mysql_ai2/blob/master/image/vendor_deleteSuccess.png)
 ### 備註：僅開放app下載使用測試，恕不開放模型店資料庫的aia檔案
