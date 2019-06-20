@@ -22,4 +22,4 @@
 ![image](https://github.com/tsaiminghsu/php_mysql_ai2/blob/master/image/vendor_updateSuccess.png)
 ### 刪除
 ![image](https://github.com/tsaiminghsu/php_mysql_ai2/blob/master/image/vendor_deleteSuccess.png)
-### 備註：僅開放app下載使用測試，恕不開放模型店資料庫的aia檔案
+### 備註：僅開放app下載使用測試，恕不開放模型店資料庫和aia檔案
